@@ -1,0 +1,40 @@
+LICENSING AND FILE SCOPE — VERSION 1.1
+Licensor: Runze Zhang
+Contact: roude@stu.hqu.edu.cn
+The author has authorized this release and the following licenses for material
+that the author is entitled to license. This document applies licenses by scope;
+it does not offer every file under a choice of CC BY and MIT.
+
+DATA, ANNOTATIONS, RESULTS, FIGURES AND DOCUMENTATION: CC BY 4.0
+Creative Commons Attribution 4.0 International applies, to the extent the author
+has the relevant rights, to the research data/annotations and original content in:
+  data/, scores/, additional_data/, tables/, prl_tables/, verification/, figures/
+and to README.txt, PUBLIC_RELEASE_NOTES.txt, PUBLIC_PROVENANCE.json,
+RELEASE_RECORD.json, table_manifest.json, SHA256_manifest.json, this scope notice,
+and the author's explanatory portions of THIRD_PARTY_NOTICES.txt.
+The complete license is in LICENSES/CC-BY-4.0.txt.
+Canonical license: https://creativecommons.org/licenses/by/4.0/
+Suggested attribution: Runze Zhang, Saved scores and recheck data for Supervision
+tradeoffs in Chinese text-to-image retrieval with composite negation, version 1.1.
+Repository URL: https://github.com/xiaobai1100111/chinese-composite-negation-retrieval
+Include the specific archive version in citations. No DOI is assigned.
+Public-domain facts and third-party material do not become the author's property.
+
+ORIGINAL PYTHON CODE: MIT
+The MIT license in LICENSES/MIT.txt applies specifically to:
+  verify_file_integrity.py
+  verify_revised_scores.py
+  verify_budget_scores.py
+  verify_prl_tables.py
+  plot_figure_1.py
+Copyright (c) 2026 Runze Zhang, to the extent of the licensor's rights.
+Canonical license: https://opensource.org/license/mit
+
+THIRD-PARTY RIGHTS AND EXCLUSIONS
+External libraries, source images, pretrained models, third-party annotations,
+and names/identifiers retain any applicable original rights and terms. Nothing
+here purports to relicense third-party material or grant rights the author does
+not hold. Original image pixels, model weights and third-party library source
+code are not included. License legal texts are reproduced as standard license
+instruments; they are not claimed as the author's original documentation.
+See THIRD_PARTY_NOTICES.txt for external dependencies and data-source scope.

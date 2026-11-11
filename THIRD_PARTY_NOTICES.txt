@@ -1,0 +1,34 @@
+THIRD-PARTY MATERIAL AND EXTERNAL DEPENDENCIES — VERSION 1.0
+
+This archive contains project-specific research artifacts and five Python scripts.
+It does not bundle Python, NumPy, Matplotlib, model implementations or weights,
+or original COCO/Flickr image pixels. The project's licenses do not replace the
+licenses of those external components.
+
+Dependencies (installed separately)
+- Python 3 and its standard library: https://www.python.org/psf/license/
+- NumPy, used by saved-score checks and plotting: https://numpy.org/doc/stable/license.html
+- Matplotlib, used only by plot_figure_1.py: https://matplotlib.org/stable/project/license.html
+Users should obtain these dependencies from their providers and follow their
+applicable licenses. Import statements do not include their source code here.
+
+Source-image and model references
+The metadata identifies COCO and a local Flickr-derived image collection, as well
+as ChineseCLIP models used in the study. The Flickr collection is not represented
+as an official independent test set. These identifiers/provenance references are
+not a redistribution of images or weights and do not confer image/model rights.
+Any later image access or redistribution must follow the actual source terms.
+This release does not relabel third-party source annotations as newly authored.
+
+Project code provenance
+The five scripts listed in LICENSING.txt were prepared for this project's saved-
+score verification and plotting, with local package-generation/revision history.
+The package contains no vendored third-party library code. AI assistance to the
+project does not make an AI system an author or a third-party copyright holder.
+The MIT grant covers only rights the licensor is entitled to grant.
+
+Standard license sources
+CC BY 4.0 legal text: https://creativecommons.org/licenses/by/4.0/legalcode.txt
+MIT standard text: https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt
+MIT canonical page: https://opensource.org/license/mit
+Only the MIT year/holder placeholders have been filled for this project's code.
